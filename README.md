@@ -1,6 +1,6 @@
 # Documents
 
-**cc4dev**'s documents collection.
+**takai24**'s documents collection.
 
 > [!IMPORTANT]
 > Credits to the authors of the books.
